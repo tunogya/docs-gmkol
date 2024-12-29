@@ -7,7 +7,7 @@ export default function Home(): JSX.Element {
 
   // 重定向到 /docs
   useEffect(() => {
-    window.location.href = "/docs/intro";
+    window.location.href = "https://gmkol.com";
   }, []);
 
   return (
