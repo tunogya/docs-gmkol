@@ -6,11 +6,8 @@ sidebar_position: 1
 
 ## 1.1 Overview
 
-An AI-driven platform that shares viewpoints from quality crypto KOLs! 🚀
+gmKOL is an AI-driven platform that shares viewpoints from quality crypto KOLs! 🚀
 
-And this is Tom! Our CMO (Chief Mascot Officer)!
-
-![gm KOL.png](/img/gmKOL.png)
 
 ## **1.2 Mission and vision**
 
@@ -20,3 +17,6 @@ gmKOL is determined to change this dynamic. The platform’s mission is to eleva
 
 This vision seeks to create a fair and transparent ecosystem where quality and authenticity are rewarded, fostering a stronger connection between KOLs, crypto projects, and the broader community.
 
+And this is Tom! Our CMO (Chief Mascot Officer)!
+
+![gm KOL.png](/img/gmKOL.png)
