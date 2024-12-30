@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# **Roadmap**
+# Roadmap
 
 gmKOL's development will unfold in two key phases, each targeting distinct audiences and addressing unique challenges within the ecosystem:
 

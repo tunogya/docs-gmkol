@@ -72,6 +72,8 @@ const config: Config = {
       logo: {
         alt: 'gmKOL Logo',
         src: 'img/gmKOL.png',
+        href: 'https://gmkol.com',
+        target: '_self',
       },
       items: [
         {
@@ -80,7 +82,7 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'}
+        // {to: '/blog', label: 'Blog', position: 'left'}
       ],
     },
     footer: {
